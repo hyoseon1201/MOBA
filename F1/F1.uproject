@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.6",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "MOBA",
+			"Name": "F1",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

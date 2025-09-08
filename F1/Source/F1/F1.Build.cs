@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class MOBA : ModuleRules
+public class F1 : ModuleRules
 {
-	public MOBA(ReadOnlyTargetRules Target) : base(Target)
+	public F1(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
